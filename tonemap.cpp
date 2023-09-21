@@ -1,13 +1,3 @@
-/*
-    Calvin Aduma
-
-    CPSC 4040 Ioannis Karamouzas
-
-    Project 5
-
-    This program tone maps HDR images
-*/
-
 #include "functions.h"
 
 int main( int argc, char* argv[] ){
